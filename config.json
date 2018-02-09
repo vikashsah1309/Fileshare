@@ -1,0 +1,9 @@
+{
+    "serverPort": 9000,
+    "isUseHTTPs": true,
+    "autoRebootServerOnFailure": false,
+    "enableLogs": "true",
+    "socketURL": "/",
+    "socketMessageEvent": "file-sharing-demo",
+    "socketCustomEvent": "RTCMultiConnection-Custom-Message"
+}
